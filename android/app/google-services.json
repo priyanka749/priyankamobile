@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639973010441",
+    "project_id": "noteout-45c55",
+    "storage_bucket": "noteout-45c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639973010441:android:14f72c43d6de951a6cdcd8",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFTgxD2lUZGcQniFI8O78wgUTGLZprDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
